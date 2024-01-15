@@ -1,2 +1,2 @@
-[Check out this link](https://password-generator-wine-two.vercel.app/)
+[Check out this link](https://password-generator-ajit.netlify.app/)
 
